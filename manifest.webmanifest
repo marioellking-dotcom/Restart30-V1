@@ -1,0 +1,42 @@
+{
+ "name": "RESTART 30",
+ "short_name": "RESTART 30",
+ "description": "Plano de 30 dias para criar hábitos mais saudáveis: corpo, mente e hábitos.",
+ "lang": "pt",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#07211c",
+ "theme_color": "#07211c",
+ "categories": [
+  "health",
+  "fitness"
+ ],
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "maskable"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
